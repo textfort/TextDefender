@@ -1,2 +1,2 @@
 # TextDefender
-An attempt to defend from typo and synonyms attacks simultaneously.
+An attempt for defend against both typo and synonym attacks simultaneously.
